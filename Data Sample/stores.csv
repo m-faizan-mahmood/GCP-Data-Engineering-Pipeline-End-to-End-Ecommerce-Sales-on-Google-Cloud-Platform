@@ -1,0 +1,5 @@
+store_id,store_name,location,manager_name,opened_on,region
+1,iStore Karachi,Karachi,Preston Fletcher,2020-05-01,South
+2,iStore Lahore,Lahore,Andrea Sutton,2021-06-15,Central
+3,iStore Quetta,Quetta,Thomas Platt,2022-07-10,West
+4,iStore Islamabad,Islamabad,Billy Horton,2021-08-25,North

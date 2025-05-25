@@ -1,0 +1,12 @@
+product_id,model_name,variant,os_version,weight_grams,base_price,launch_date,discontinued
+1,iPhone 13,128GB Blue,iOS 15,174,230000,2021-09-24,False
+2,iPhone 13 Pro,256GB Silver,iOS 15,204,290000,2021-09-24,False
+3,iPhone 14,128GB Black,iOS 16,172,250000,2022-09-16,False
+4,iPhone 14 Pro Max,512GB Gold,iOS 16,240,370000,2022-09-16,False
+5,iPhone 15,256GB Blue,iOS 17,171,270000,2023-09-22,False
+6,iMac M1,8GB/256GB,macOS Monterey,4300,320000,2021-04-20,False
+7,iMac M3,16GB/512GB,macOS Sonoma,4500,450000,2023-11-07,False
+8,MacBook Air M2,8GB/256GB,macOS Ventura,1290,280000,2022-07-15,False
+9,MacBook Air M3,16GB/512GB,macOS Sonoma,1350,340000,2024-03-08,False
+10,AirPods Pro 2,MagSafe Case,iOS Compatible,50,75000,2022-09-23,False
+11,AirPods 3,Lightning Case,iOS Compatible,46,50000,2021-10-26,False
